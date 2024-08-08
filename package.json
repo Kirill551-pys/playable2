@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pixi.js": "^8.3.1",
+    "tween.js": "^16.6.0"
+  }
+}
